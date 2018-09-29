@@ -1,9 +1,7 @@
 # Data Analytics Job Index
 
-- What are the skills required to become a Data Scientist?
-
-![](data-scientist-skills.png)
-(https://www.quora.com/What-are-the-skills-required-to-become-a-Data-Scientist)
+> *What are the skills required to become a Data Scientist?*
+(e.g., https://www.quora.com/What-are-the-skills-required-to-become-a-Data-Scientist)
 
 
 - From the curiosity, I developed a Web Scrapper for www.indeed.com, which is the largest job search platform, to automatically generate and visualize information about data analytics jobs as follows:
