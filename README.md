@@ -1,6 +1,7 @@
 # Data Analytics Job Index
 
 > *What are the skills required to become a Data Scientist?*
+
 (e.g., https://www.quora.com/What-are-the-skills-required-to-become-a-Data-Scientist)
 
 
