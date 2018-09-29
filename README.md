@@ -21,5 +21,5 @@
 
 
 ### What’s the Difference Between Data Analytics Roles?
-![](images\data-scientist-roles.png)
+![](images/data-scientist-roles.png)
 (https://www.betterbuys.com/bi/comparing-data-science-roles/)
