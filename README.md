@@ -12,9 +12,8 @@
     4. Data Analytics Job Characteristics
         - 4.1 Salary
         - 4.2 Company Rating
-        - 4.3 Required Skills
-        - 4.4 Word Cloud for Job Descriptions
-        - 4.5 Saving the job list as a csv file
+        - 4.3 Word Cloud for Job Descriptions
+        - 4.4 Saving the job list as a csv file
 
 
 - This can be customized for any jobs or any locations in the United States.
@@ -22,5 +21,5 @@
 
 
 ### What’s the Difference Between Data Analytics Roles?
-![](data-scientist-roles.png)
+![](images\data-scientist-roles.png)
 (https://www.betterbuys.com/bi/comparing-data-science-roles/)
