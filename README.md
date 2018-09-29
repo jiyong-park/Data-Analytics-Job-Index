@@ -1,8 +1,8 @@
 # Data Analytics Job Index
 
 - What are the skills required to become a Data Scientist?
+![](data-scientist-skills.png)
 (https://www.quora.com/What-are-the-skills-required-to-become-a-Data-Scientist)
-![image.png](attachment:image.png)
 
 
 - From the curiosity, I developed a Web Scrapper for www.indeed.com, which is the largest job search platform, to automatically generate and visualize information about data analytics jobs as follows:
@@ -22,6 +22,5 @@
 
 
 ### What’s the Difference Between Data Analytics Roles?
+![](data-scientist-skills.png)
 (https://www.betterbuys.com/bi/comparing-data-science-roles/)
-
-![image.png](attachment:image.png)
