@@ -20,22 +20,27 @@
 - Since Indeed is currently available in over 60 countries and 28 languages, you can customize this scrapper for other countries in accordance with each website (see https://www.indeed.com/worldwide).
 
 
-### What’s the Difference Between Data Analytics Roles?
+## What’s the Difference Between Data Analytics Roles?
 ![](images/data-analytics-roles.png)
 (https://www.betterbuys.com/bi/comparing-data-science-roles/)
 
 
-### How Many New Data Analytics Jobs Are in the United States? (As of 9/30/2018)
+## How Many New Data Analytics Jobs Are in the United States? (as of 9/30/2018)
 ![](images/data-analytics-job-counts.png)
 
-### Data Analytics Job Map (As of 9/30/2018)
+
+## Data Analytics Job Map (as of 9/30/2018)
 ![](images/data-analytics-job-map.png)
 
-### Required Skills for Data Analytics (As of 9/30/2018)
-![](images/data-scientist-roles.png)
 
-### How about Working for Data Science Companies? (As of 9/30/2018)
-![](images/data-scientist-roles.png)
+## Required Skills for Data Analytics (as of 9/30/2018)
+![](images/data-analytics-job-skills.png)
 
-### Word Cloud for Data Scientist Job Descriptions(As of 9/30/2018)
-![](images/data-scientist-roles.png)
+
+## How about Working for Data Science Companies? (as of 9/30/2018)
+![](images/data-analytics-company-ratings.png)
+
+
+## Word Cloud for Data Scientist Job Descriptions(as of 9/30/2018)
+![](images/data-analytics-word-cloud.png)
+
