@@ -26,10 +26,10 @@
 
 
 ### How Many New Data Analytics Jobs Are in the United States? (As of 9/30/2018)
-![](images/data-analytics-job counts.png)
+![](images/data-analytics-job-counts.png)
 
 ### Data Analytics Job Map (As of 9/30/2018)
-![](images/data-analytics-job map.png)
+![](images/data-analytics-job-map.png)
 
 ### Required Skills for Data Analytics (As of 9/30/2018)
 ![](images/data-scientist-roles.png)
