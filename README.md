@@ -6,12 +6,12 @@
 
 
 - From the curiosity, I developed a Web Scrapper for www.indeed.com, which is the largest job search platform, to automatically generate and visualize information about data analytics jobs as follows:
-    1. How Many New Data Analytics Jobs are There?
+    1. How Many Data Analytics Jobs are There?
     2. Data Analytics Job Map
     3. Required Skills for Data Analytics
     4. Data Analytics Job Characteristics
-        - 4.1 Salary
-        - 4.2 Company Rating
+        - 4.1 Salary by Job
+        - 4.2 Salary by Location
         - 4.3 Word Cloud for Job Descriptions
         - 4.4 Saving the job list as a csv file
 
@@ -25,22 +25,25 @@
 (https://www.betterbuys.com/bi/comparing-data-science-roles/)
 
 
-## How Many New Data Analytics Jobs Are in the United States? (as of 9/30/2018)
+## How Many Data Analytics Jobs are in the United States? (as of 10/2/2018)
 ![](images/data-analytics-job-counts.png)
 
 
-## Data Analytics Job Map (as of 9/30/2018)
+## Data Analytics Job Map (as of 10/2/2018)
 ![](images/data-analytics-job-map.png)
 
 
-## Required Skills for Data Analytics (as of 9/30/2018)
+## Required Skills for Data Analytics (as of 10/2/2018)
 ![](images/data-analytics-job-skills.png)
 
 
-## How about Working for Data Science Companies? (as of 9/30/2018)
-![](images/data-analytics-company-ratings.png)
+## How Much is Data Analytics Job Salary? (as of 10/2/2018)
+![](images/data-analytics-job-salary.png)
+
+## Data Analytics Job Salary by Location (as of 10/2/2018)
+![](images/data-analytics-salary-location.png)
 
 
-## Word Cloud for Data Scientist Job Descriptions(as of 9/30/2018)
+## Word Cloud for Data Scientist Job Descriptions(as of 10/2/2018)
 ![](images/data-analytics-word-cloud.png)
 
